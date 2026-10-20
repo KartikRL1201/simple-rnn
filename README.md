@@ -24,7 +24,7 @@ A binary sentiment classification model trained on the IMDB movie reviews datase
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/KartikRL1201/simple-rnn.git
    cd simple-rnn
    ```
 
